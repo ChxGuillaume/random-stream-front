@@ -1,19 +1,20 @@
-# Random Twitch Stream - Frontend
-## Find the font for this project [here](https://github.com/ChxGuillaume/random-stream-socket).
+<p align="center">
+    <a href="http://discover-twitch-fr.nekotiki.fr/" target="_blank">
+    	<img src="https://i.imgur.com/a1lCNSJ.png" height="300">
+    </a>
+</p>
 
-## Project setup
-```
-npm install
-```
+# 📺 Random Twitch Stream - Frontend
+Find the font for this project [here](https://github.com/ChxGuillaume/random-stream-socket).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## ⚙️ Project setup
+Install all dependencies.
+> npm install
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Compiles and hot-reloads for development.
+> npm run serve
 
-### See the App [here](http://discover-twitch-fr.nekotiki.fr/).
+Compiles and minifies for production.
+> npm run build
+
+#### 🔗 Access the app [here](http://discover-twitch-fr.nekotiki.fr/).
