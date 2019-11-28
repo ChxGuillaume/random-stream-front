@@ -5,7 +5,7 @@
 </p>
 
 # 📺 Random Twitch Stream - Frontend
-Find the font for this project [here](https://github.com/ChxGuillaume/random-stream-socket).
+Find the backend for this project [here](https://github.com/ChxGuillaume/random-stream-socket).
 
 ## ⚙️ Project setup
 Install all dependencies.
