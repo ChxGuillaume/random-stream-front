@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="http://discover-twitch-fr.nekotiki.fr/" target="_blank">
+    <a href="https://bit.ly/37XdV3j" target="_blank">
     	<img src="https://i.imgur.com/a1lCNSJ.png" height="300">
     </a>
 </p>
@@ -17,4 +17,4 @@ Compiles and hot-reloads for development.
 Compiles and minifies for production.
 > npm run build
 
-#### 🔗 Access the app [here](http://discover-twitch-fr.nekotiki.fr/).
+#### 🔗 Access the app [here](https://bit.ly/37XdV3j).
